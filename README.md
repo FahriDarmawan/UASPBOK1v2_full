@@ -10,3 +10,13 @@ You have to add modules JavaFX to your Project on Intellij IDEA
 
 Thanks,
 Fahri Darmawan
+
+Account for Login :
+Username : fahridarmawan
+Password : 12345
+
+Username : mfadly
+Password : 54321
+
+Username : ayulaura
+Password : 13579
